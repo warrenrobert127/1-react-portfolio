@@ -1,8 +1,12 @@
 import React from "react";
 import coverImage from "../../assets/cover/Rosie.jpg";
+
+
+
+
 function About() {
   return (
-    <section className="my-5">
+    <section className="my-5" style={{ backgroundColor: "red" }}>
       <h1 id="about">Who am I?</h1>
       <img
         src={coverImage}
@@ -11,9 +15,7 @@ function About() {
         alt="cover"
       />
       <div className="my-2">
-        <p>
-          Robert Warren QA engineer
-        </p>
+        <p style={{ color: "green" }}>Robert Warren QA engineer</p>
       </div>
     </section>
   );

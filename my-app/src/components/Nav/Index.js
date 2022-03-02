@@ -15,10 +15,10 @@ function Nav(props) {
   }, [currentCategory]);
 
   return (
-    <header className="flex-row px-1">
+    <header className="flex-row px-1" style={{ backgroundColor: "violet" }}>
       <h2>
         <a data-testid="link" href="/">
-        Robert M Warren
+          Robert M Warren
         </a>
       </h2>
       <nav>
