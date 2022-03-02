@@ -4,6 +4,8 @@ import About from "./components/About";
 import Gallery from "./components/Gallery";
 import ContactForm from "./components/Contact";
 import Footer from "./components/Footer";
+import Portfolio from "./components/Portfolio";
+
 
 function App() {
   const [categories] = useState([
@@ -30,8 +32,9 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Gallery currentCategory={currentCategory}></Gallery>
-            <About></About>
+            <About currentCategory={currentCategory}></About>
+            <Portfolio></Portfolio>
+            
           </>
         ) : (
           <ContactForm></ContactForm>
