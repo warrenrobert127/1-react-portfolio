@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { capitalizeFirstLetter } from "../../utils/helpers";
+import './Nav.css';
 
 function Nav(props) {
   const {
@@ -15,14 +16,14 @@ function Nav(props) {
   }, [currentCategory]);
 
   return (
-    <header className="flex-row px-1" style={{ backgroundColor: "violet" }}>
+    <header className="Nav">
       <h2>
         <a data-testid="link" href="/">
           Robert M Warren
         </a>
       </h2>
       <nav>
-        <ul className="flex-row">
+        <ul className="About">
           <li className="mx-2">
             <a
               data-testid="about"

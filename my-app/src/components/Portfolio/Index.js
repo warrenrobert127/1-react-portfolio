@@ -1,8 +1,9 @@
 import React from "react";
+import './Portfolio.css';
 
 function Portfolio() {
   return (
-    <div style={{ backgroundColor: "blue" }}>
+    <div className="portfolio">
       <h2>Portfolio</h2>
 
       <div className="container">
@@ -95,6 +96,19 @@ function Portfolio() {
             <h4>Shop my store!</h4>
             <br />
             <br />
+          </div>
+          <div className="row">
+            <a href=" https://fullfillbabyregistry.herokuapp.com/">
+              {" "}
+              <img
+                src={
+                  require("../../assets/large/finalProject.png").default
+                }
+                alt="Final Project"
+                style={{ width: "70%" }}
+              />
+            </a>
+            <h4>Git Projects!</h4>
           </div>
         </div>
       </div>

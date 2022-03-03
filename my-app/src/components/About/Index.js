@@ -1,12 +1,13 @@
 import React from "react";
 import coverImage from "../../assets/cover/Rosie.jpg";
+import './About.css';
 
 
 
 
 function About() {
   return (
-    <section className="my-5" style={{ backgroundColor: "red" }}>
+    <section className="Nav" style={{ backgroundColor: "lightblue" }}>
       <h1 id="about">Who am I?</h1>
       <img
         src={coverImage}
@@ -14,8 +15,8 @@ function About() {
         style={{ width: "30%" }}
         alt="cover"
       />
-      <div className="my-2">
-        <p style={{ color: "green" }}>Robert Warren QA engineer</p>
+      <div className='my-2'>
+        <p style={{position: 'left' }} >Robert Warren QA engineer</p>
       </div>
     </section>
   );
