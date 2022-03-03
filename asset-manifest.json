@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/warrenrobert127/1-react-portfolio/static/css/main.1631aaab.css",
+    "main.js": "/warrenrobert127/1-react-portfolio/static/js/main.9fd15cae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/warrenrobert127/1-react-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Rosie.jpg": "/warrenrobert127/1-react-portfolio/static/media/Rosie.af51e63502e022df1d67.jpg",
+    "static/media/finalProject.png": "/warrenrobert127/1-react-portfolio/static/media/finalProject.3377be4c1ccfc9743e13.png",
+    "static/media/team_profile_generator.png": "/warrenrobert127/1-react-portfolio/static/media/team_profile_generator.272c283845acfc411f0e.png",
+    "static/media/readMe_generator.png": "/warrenrobert127/1-react-portfolio/static/media/readMe_generator.91b9ecf19869ed7cb508.png",
+    "static/media/password_generator.png": "/warrenrobert127/1-react-portfolio/static/media/password_generator.8bcd310f2df9e17dc1a2.png",
+    "static/media/weather_dashboard.png": "/warrenrobert127/1-react-portfolio/static/media/weather_dashboard.7696e85f3929123d5191.png",
+    "static/media/ecommerce_back.png": "/warrenrobert127/1-react-portfolio/static/media/ecommerce_back.032c4d2cfdef540d20fd.png",
+    "index.html": "/warrenrobert127/1-react-portfolio/index.html",
+    "main.1631aaab.css.map": "/warrenrobert127/1-react-portfolio/static/css/main.1631aaab.css.map",
+    "main.9fd15cae.js.map": "/warrenrobert127/1-react-portfolio/static/js/main.9fd15cae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/warrenrobert127/1-react-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1631aaab.css",
+    "static/js/main.9fd15cae.js"
+  ]
+}
