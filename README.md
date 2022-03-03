@@ -13,3 +13,7 @@ React.js framework
 
 ![gitHub](https://github.com/warrenrobert127/1-react-portfolio)
 ![Deployed link](https://warrenrobert127.github.io/1-react-portfolio/)
+
+## final project
+![github](https://github.com/pardue95/group-5-project-3)
+![deploy link](https://fullfillbabyregistry.herokuapp.com/)
