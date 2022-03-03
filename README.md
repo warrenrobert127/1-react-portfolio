@@ -15,5 +15,5 @@ React.js framework
 ![Deployed link](https://warrenrobert127.github.io/1-react-portfolio/)
 
 ## final project
-![github](https://github.com/pardue95/group-5-project-3)
-![deploy link](https://fullfillbabyregistry.herokuapp.com/)
+github: https://github.com/pardue95/group-5-project-3
+heroku: https://fullfillbabyregistry.herokuapp.com/
