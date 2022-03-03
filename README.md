@@ -7,7 +7,7 @@ A portfolio of all my work done in UT-Code-Camp, built entirely with React.js
 Clone the repo and install the necessary packages, you will see them in the package.json file. Navigate to my-app, run 'npm start'
 ## Exapmles
 
-![image](https://user-images.githubusercontent.com/20363030/156310770-96bd524e-8304-4883-a6be-a6eb0fd6c171.png)
+![image](https://user-images.githubusercontent.com/20363030/156663466-9d560bf5-6d61-43d3-83b8-9779170bf3b1.png)
 ## Features
 React.js framework
 
